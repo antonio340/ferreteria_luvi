@@ -1,0 +1,26 @@
+{
+  "name": "ferreteria",
+  "version": "1.0.0",
+  "description": "negocio_web",
+  "main": "index.js",
+  "scripts": {
+    "test": "https://github.com/antonio340/ferreteria_luvi.git"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antonio340/ferreteria_luvi.git"
+  },
+  "keywords": [
+    "ferreteria"
+  ],
+  "author": "antonio anthony_341@outlook.es",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antonio340/ferreteria_luvi/issues"
+  },
+  "homepage": "https://github.com/antonio340/ferreteria_luvi#readme",
+  "dependencies": {
+    "jquery": "^3.5.1",
+    "jquery-mobile": "^1.5.0-alpha.1"
+  }
+}
